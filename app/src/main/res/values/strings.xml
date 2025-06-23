@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Farmaenlace</string>
+    <string-array name="medication_types_array">
+        <item>Seleccione Tipo</item>
+        <item>Analgésico</item>
+        <item>Analéptico</item>
+        <item>Anestésico</item>
+        <item>Antiácido</item>
+        <item>Antidepresivo</item>
+        <item>Antibiótico</item>
+    </string-array>
 </resources>
